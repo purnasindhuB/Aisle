@@ -53,13 +53,7 @@ Aisle/
 
 ---
 
-## 📱 Screens
 
-| Phone Input Screen | Country Code Menu | OTP Screen |
-|--------------------|-------------------|------------|
-| ✅ Validations     | 🌐 +91 🇮🇳         | 🔐 Secure  |
-
----
 
 ## ⚙️ Setup Instructions
 
